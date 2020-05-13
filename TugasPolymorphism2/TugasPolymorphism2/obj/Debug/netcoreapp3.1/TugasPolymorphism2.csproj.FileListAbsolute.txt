@@ -1,0 +1,13 @@
+E:\19.11.2757\Polymorphism2\TugasPolymorphism2\TugasPolymorphism2\obj\Debug\netcoreapp3.1\TugasPolymorphism2.csprojAssemblyReference.cache
+E:\19.11.2757\Polymorphism2\TugasPolymorphism2\TugasPolymorphism2\obj\Debug\netcoreapp3.1\TugasPolymorphism2.csproj.CoreCompileInputs.cache
+E:\19.11.2757\Polymorphism2\TugasPolymorphism2\TugasPolymorphism2\obj\Debug\netcoreapp3.1\TugasPolymorphism2.AssemblyInfoInputs.cache
+E:\19.11.2757\Polymorphism2\TugasPolymorphism2\TugasPolymorphism2\obj\Debug\netcoreapp3.1\TugasPolymorphism2.AssemblyInfo.cs
+E:\19.11.2757\Polymorphism2\TugasPolymorphism2\TugasPolymorphism2\bin\Debug\netcoreapp3.1\TugasPolymorphism2.exe
+E:\19.11.2757\Polymorphism2\TugasPolymorphism2\TugasPolymorphism2\bin\Debug\netcoreapp3.1\TugasPolymorphism2.deps.json
+E:\19.11.2757\Polymorphism2\TugasPolymorphism2\TugasPolymorphism2\bin\Debug\netcoreapp3.1\TugasPolymorphism2.runtimeconfig.json
+E:\19.11.2757\Polymorphism2\TugasPolymorphism2\TugasPolymorphism2\bin\Debug\netcoreapp3.1\TugasPolymorphism2.runtimeconfig.dev.json
+E:\19.11.2757\Polymorphism2\TugasPolymorphism2\TugasPolymorphism2\bin\Debug\netcoreapp3.1\TugasPolymorphism2.dll
+E:\19.11.2757\Polymorphism2\TugasPolymorphism2\TugasPolymorphism2\bin\Debug\netcoreapp3.1\TugasPolymorphism2.pdb
+E:\19.11.2757\Polymorphism2\TugasPolymorphism2\TugasPolymorphism2\obj\Debug\netcoreapp3.1\TugasPolymorphism2.dll
+E:\19.11.2757\Polymorphism2\TugasPolymorphism2\TugasPolymorphism2\obj\Debug\netcoreapp3.1\TugasPolymorphism2.pdb
+E:\19.11.2757\Polymorphism2\TugasPolymorphism2\TugasPolymorphism2\obj\Debug\netcoreapp3.1\TugasPolymorphism2.genruntimeconfig.cache
